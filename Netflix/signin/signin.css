@@ -1,0 +1,137 @@
+body{
+    margin: 0px;
+    position: relative;
+}
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(77, 77, 77);
+}
+.row{
+    display: flex;
+}
+.background{
+    z-index: -1;
+}
+.logo{
+    position: absolute;
+    left: 0px;
+    width: 200px;
+    background-color: rgba(0, 0, 0, 0.534);
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 1033px;
+    padding-bottom: 1060px;
+}
+.signin{
+    position: absolute;
+    border-radius: 5px;
+    top: 100px;
+    left: 450px;
+    width: 450px;
+    height: 720px;
+    background-color: rgba(0, 0, 0, 0.726);
+}
+.title{
+    margin-top: 60px;
+    margin-left: 60px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lan{
+    margin-top: 30px;
+    margin-left: 100px;
+    font-size: 15px;
+    padding: 6px 10px;
+    background-color: rgba(0, 0, 0, 0.527);
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input{
+    font-size: 16px;
+    text-align: left;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 140px;
+    background-color: rgb(54, 54, 54);
+    border: none;
+    border-radius: 4px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.submit{
+    font-size: 18px;
+    text-align: left;
+    padding: 15px 150px;
+    background-color: rgb(215 22 30);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.checkbox{
+    font-size: 15px;
+    margin-right: -40px;
+    margin-left: 50px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.two{
+    margin: 30px 0px;
+}
+.help{
+    margin-left: 150px;
+    color: rgb(122, 122, 122);
+}
+.check{
+    margin-top: 3px;
+}
+.face{
+    color: rgb(77, 77, 77);
+    margin-left: 10px;
+}
+.two2{
+    margin-left: 50px;
+}
+.pp{
+    margin-top: -10px;
+}
+.aa{
+    margin-top: -10px;
+    margin-left: 10px;
+    color: white;
+    font-size: 15px;
+}
+.ppp{
+    font-size: 15px;
+    width: 350px;
+}
+.learn{
+    width: 300px;
+    position: absolute;
+    top: 523px;
+    left: 215px;
+}
+.foot{
+    top: 900px;
+    background-color: rgba(0, 0, 0, 0.726);
+    position: absolute;
+    width: 100%;
+    height: 250px;
+}
+td{
+    color: rgb(77, 77, 77);
+}
+.table{
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.pppppp{
+    margin-left: 100px;
+    margin-top: 20px;
+}
